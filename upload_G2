@@ -1,0 +1,3 @@
+#!/bin/bash
+cd G2
+make G2.upload login
