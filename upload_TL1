@@ -1,0 +1,4 @@
+#!/bin/bash
+cd TL1
+make TL1.upload login
+
