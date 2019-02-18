@@ -1,4 +1,0 @@
-#!/bin/bash
-cd TL2	
-make TL2.upload login
-
